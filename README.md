@@ -1,3 +1,5 @@
+# This is a fork of the official azure-storage-ruby that relaxes the restrictions on faraday version. This is an older 0.15 version and can be used only if you have an issue with using the newer version - https://github.com/Azure/azure-storage-ruby/issues/166. Otherwise, use the latest version. 
+
 # Microsoft Azure Storage Client Library for Ruby
 
 [![Gem Version](https://badge.fury.io/rb/azure-storage.svg)](https://badge.fury.io/rb/azure-storage)
